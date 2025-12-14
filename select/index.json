@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたに恋をしなければ",
+  "base_artist": "Losstime Life",
+  "createdAt": "2025-12-14T12:06:02.500896Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたに恋をしなければ",
+      "artist": "Losstime Life",
+      "has_synced": false,
+      "path": "select/pl_01_あなたに恋をしなければ_Losstime_Life.txt"
+    }
+  ]
+}
